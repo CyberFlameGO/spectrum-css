@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.1"></a>
+## 5.0.1
+🗓 2022-10-13 • 📝 [Commits](https://github.com/adobe/spectrum-css/compare/@spectrum-css/statuslight@5.0.0...@spectrum-css/statuslight@5.0.1)
+
+**Note:** Version bump only for package @spectrum-css/statuslight
+
+
+
+
+
+<a name="5.0.0"></a>
+# 5.0.0
+🗓 2022-09-21 • 📝 [Commits](https://github.com/adobe/spectrum-css/compare/@spectrum-css/statuslight@4.0.14...@spectrum-css/statuslight@5.0.0)
+
+* feat(statuslight)!: migrate statuslight to core tokens  (#1495) ([3dc991d](https://github.com/adobe/spectrum-css/commit/3dc991d)), closes [#1495](https://github.com/adobe/spectrum-css/issues/1495)
+
+
+### 🛑 BREAKING CHANGES
+
+* migrates statuslight to core tokens
+
+* migrates all tokens to core tokens
+* removes `skin.css`
+* deprecates and removes `disabled` state
+* adds high-contrast and modifier tokens
+
+Co-authored-by: Patrick Fulton <pfulton@adobe.com>
+
+
+
+
+
 <a name="4.0.14"></a>
 ## 4.0.14
 🗓 2022-06-16 • 📝 [Commits](https://github.com/adobe/spectrum-css/compare/@spectrum-css/statuslight@4.0.13...@spectrum-css/statuslight@4.0.14)
